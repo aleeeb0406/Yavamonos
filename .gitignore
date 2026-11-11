@@ -1,0 +1,9 @@
+# Esta carpeta tiene muchos proyectos; este repositorio solo publica Yavamonos.
+# Se ignora todo y se permiten únicamente los archivos de la app.
+/*
+!/.gitignore
+!/README.md
+!/index.html
+!/yavamonos-app.html
+!/logo_yavamonos.png
+!/img/
